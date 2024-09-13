@@ -1,0 +1,12 @@
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+
+body {
+   color: aliceblue;
+   background-color: black;
+}
