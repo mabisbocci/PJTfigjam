@@ -9,7 +9,7 @@
 body {
    color: aliceblue;
    background-color: rgb(165, 137, 223);
-   font-family: "Edu AU VIC WA NT Guides", sans-serif;
+   font-family: "EB Garamond", sans-serif;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -20,5 +20,5 @@ body {
 button {
     background-color: blueviolet;
     color: azure;
-    font-family: "Edu AU VIC WA NT Guides", sans-serif;
+    font-family: "Eb Garamond", sans-serif;
 }
