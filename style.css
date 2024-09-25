@@ -9,4 +9,16 @@
 body {
    color: aliceblue;
    background-color: rgb(165, 137, 223);
+   font-family: "Edu AU VIC WA NT Guides", sans-serif;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 700px;
+   margin: 0;
+}
+
+button {
+    background-color: blueviolet;
+    color: azure;
+    font-family: "Edu AU VIC WA NT Guides", sans-serif;
 }
