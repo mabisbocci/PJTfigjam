@@ -22,3 +22,10 @@ button {
     color: azure;
     font-family: "EB Garamond", serif;
 }
+
+img {
+    width: 250px;
+    color: darkblue;
+    margin-left: 20%;
+
+}
